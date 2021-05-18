@@ -1,0 +1,19 @@
+{
+  "InstitutionName": "Ural Federal University",
+  "InstitutionalDepartmentName": "Department of Psychology",
+  "PowerLineFrequency": 50,
+  "ManufacturersModelName": "Mitsar",
+  "EEGGround": "Fpz",
+  "EEGReference": "linked earlobes",
+  "EEGChannelCount": 19,
+  "MiscChannelCount": 0,
+  "EOGChannelCount": 2,
+  "TaskDescription": "the task used is a modified Sternberg paradigm with temporally distinct encoding and maintenance processing stages. The experiment entailed six different conditions: maintenance in memory of 5, 6 or 7 simultaneously presented letters in the alphabetical (manipulation condition) or forward (retention condition) order. In the retention task the participants had to maintain in memory the original set as it was presented, and in the manipulation task they had to, first, mentally reorganize the letters into the alphabetical order and then maintain the result in memory. After 6.7 s delay, a letter-digit probe appeared and the participants indicated whether the probe was on the corresponding position either in the original set (retention task), or in the set resulted from the alphabetical reordering (manipulation task). Each of the six conditions (retention or manipulation of 5, 6 or 7 letters sets) had 20 consecutive trials. These six blocks of 20 trials were presented in a random order.",
+  "TaskName": "VerbalWorkingMemory",
+  "RecordingType": "continuous",
+  "RecordingDuration": 3003,
+  "SamplingFrequency": 500,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "SoftwareFilters": "n/a"
+}
