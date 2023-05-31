@@ -1,0 +1,846 @@
+onset	duration	sample	trial_type	response_time	stim_file	value
+349.2460000000	n/a	174623	STATUS	n/a	n/a	2
+369.9380000000	n/a	184969	STATUS	n/a	n/a	1
+448.9660000000	n/a	224483	STATUS	n/a	n/a	1
+469.4140000000	n/a	234707	STATUS	n/a	n/a	1
+491.5100000000	n/a	245755	STATUS	n/a	n/a	1
+495.7100000000	n/a	247855	start of the trial	n/a	n/a	500
+496.0400000000	n/a	248020	start of the baseline period: Manipulation with 6 letters (6M)	n/a	n/a	161
+499.2100000000	n/a	249605	presentation of the task instruction	n/a	n/a	4
+499.8500000000	n/a	249925	encoding: 6M	n/a	n/a	261
+503.0200000000	n/a	251510	delay period: 6M	n/a	n/a	361
+509.6600000000	n/a	254830	probe: 6M	n/a	n/a	61
+512.6180000000	n/a	256309	Response: 6M: error	n/a	n/a	4610
+515.8100000000	n/a	257905	start of the trial	n/a	n/a	500
+516.1400000000	n/a	258070	start of the baseline period: Manipulation with 6 letters (6M)	n/a	n/a	161
+519.3100000000	n/a	259655	presentation of the task instruction	n/a	n/a	4
+519.9500000000	n/a	259975	encoding: 6M	n/a	n/a	261
+523.1200000000	n/a	261560	delay period: 6M	n/a	n/a	361
+529.7600000000	n/a	264880	probe: 6M	n/a	n/a	61
+532.4540000000	n/a	266227	Response: 6M: error	n/a	n/a	4610
+536.0400000000	n/a	268020	start of the trial	n/a	n/a	500
+536.3700000000	n/a	268185	start of the baseline period: Manipulation with 6 letters (6M)	n/a	n/a	161
+539.5500000000	n/a	269775	presentation of the task instruction	n/a	n/a	4
+540.1800000000	n/a	270090	encoding: 6M	n/a	n/a	261
+543.3500000000	n/a	271675	delay period: 6M	n/a	n/a	361
+550.0100000000	n/a	275005	probe: 6M	n/a	n/a	61
+553.6940000000	n/a	276847	Response: 6M: correct	n/a	n/a	4611
+556.4900000000	n/a	278245	start of the trial	n/a	n/a	500
+556.8600000000	n/a	278430	start of the baseline period: Manipulation with 6 letters (6M)	n/a	n/a	161
+560.0000000000	n/a	280000	presentation of the task instruction	n/a	n/a	4
+560.6600000000	n/a	280330	encoding: 6M	n/a	n/a	261
+563.8000000000	n/a	281900	delay period: 6M	n/a	n/a	361
+570.4800000000	n/a	285240	probe: 6M	n/a	n/a	61
+575.0600000000	n/a	287530	Response: 6M: correct	n/a	n/a	4611
+576.8900000000	n/a	288445	start of the trial	n/a	n/a	500
+577.2600000000	n/a	288630	start of the baseline period: Manipulation with 6 letters (6M)	n/a	n/a	161
+580.4000000000	n/a	290200	presentation of the task instruction	n/a	n/a	4
+581.0600000000	n/a	290530	encoding: 6M	n/a	n/a	261
+584.2000000000	n/a	292100	delay period: 6M	n/a	n/a	361
+590.8800000000	n/a	295440	probe: 6M	n/a	n/a	61
+593.3720000000	n/a	296686	Response: 6M: error	n/a	n/a	4610
+597.4900000000	n/a	298745	start of the trial	n/a	n/a	500
+597.8200000000	n/a	298910	start of the baseline period: Manipulation with 6 letters (6M)	n/a	n/a	161
+600.9900000000	n/a	300495	presentation of the task instruction	n/a	n/a	4
+601.6300000000	n/a	300815	encoding: 6M	n/a	n/a	261
+604.8000000000	n/a	302400	delay period: 6M	n/a	n/a	361
+611.4600000000	n/a	305730	probe: 6M	n/a	n/a	61
+614.1360000000	n/a	307068	Response: 6M: error	n/a	n/a	4610
+617.9000000000	n/a	308950	start of the trial	n/a	n/a	500
+618.2400000000	n/a	309120	start of the baseline period: Manipulation with 6 letters (6M)	n/a	n/a	161
+621.4100000000	n/a	310705	presentation of the task instruction	n/a	n/a	4
+622.0500000000	n/a	311025	encoding: 6M	n/a	n/a	261
+625.2200000000	n/a	312610	delay period: 6M	n/a	n/a	361
+631.8600000000	n/a	315930	probe: 6M	n/a	n/a	61
+633.8400000000	n/a	316920	Response: 6M: error	n/a	n/a	4610
+638.4400000000	n/a	319220	start of the trial	n/a	n/a	500
+638.8000000000	n/a	319400	start of the baseline period: Manipulation with 6 letters (6M)	n/a	n/a	161
+641.9400000000	n/a	320970	presentation of the task instruction	n/a	n/a	4
+642.6100000000	n/a	321305	encoding: 6M	n/a	n/a	261
+645.7500000000	n/a	322875	delay period: 6M	n/a	n/a	361
+652.4300000000	n/a	326215	probe: 6M	n/a	n/a	61
+654.5880000000	n/a	327294	Response: 6M: correct	n/a	n/a	4611
+658.7000000000	n/a	329350	start of the trial	n/a	n/a	500
+659.0400000000	n/a	329520	start of the baseline period: Manipulation with 6 letters (6M)	n/a	n/a	161
+662.2100000000	n/a	331105	presentation of the task instruction	n/a	n/a	4
+662.8400000000	n/a	331420	encoding: 6M	n/a	n/a	261
+666.0200000000	n/a	333010	delay period: 6M	n/a	n/a	361
+672.6600000000	n/a	336330	probe: 6M	n/a	n/a	61
+676.0980000000	n/a	338049	Response: 6M: correct	n/a	n/a	4611
+679.0700000000	n/a	339535	start of the trial	n/a	n/a	500
+679.4400000000	n/a	339720	start of the baseline period: Manipulation with 6 letters (6M)	n/a	n/a	161
+682.5800000000	n/a	341290	presentation of the task instruction	n/a	n/a	4
+683.2400000000	n/a	341620	encoding: 6M	n/a	n/a	261
+686.3800000000	n/a	343190	delay period: 6M	n/a	n/a	361
+693.0400000000	n/a	346520	probe: 6M	n/a	n/a	61
+694.3340000000	n/a	347167	Response: 6M: correct	n/a	n/a	4611
+699.1900000000	n/a	349595	start of the trial	n/a	n/a	500
+699.5200000000	n/a	349760	start of the baseline period: Manipulation with 6 letters (6M)	n/a	n/a	161
+702.6900000000	n/a	351345	presentation of the task instruction	n/a	n/a	4
+703.3300000000	n/a	351665	encoding: 6M	n/a	n/a	261
+706.5000000000	n/a	353250	delay period: 6M	n/a	n/a	361
+713.1400000000	n/a	356570	probe: 6M	n/a	n/a	61
+717.7800000000	n/a	358890	Response: 6M: correct	n/a	n/a	4611
+719.4500000000	n/a	359725	start of the trial	n/a	n/a	500
+719.7900000000	n/a	359895	start of the baseline period: Manipulation with 6 letters (6M)	n/a	n/a	161
+722.9400000000	n/a	361470	presentation of the task instruction	n/a	n/a	4
+723.6100000000	n/a	361805	encoding: 6M	n/a	n/a	261
+726.7500000000	n/a	363375	delay period: 6M	n/a	n/a	361
+733.4200000000	n/a	366710	probe: 6M	n/a	n/a	61
+738.0100000000	n/a	369005	Response: 6M: error	n/a	n/a	4610
+739.5300000000	n/a	369765	start of the trial	n/a	n/a	500
+739.9000000000	n/a	369950	start of the baseline period: Manipulation with 6 letters (6M)	n/a	n/a	161
+743.0400000000	n/a	371520	presentation of the task instruction	n/a	n/a	4
+743.7100000000	n/a	371855	encoding: 6M	n/a	n/a	261
+746.8400000000	n/a	373420	delay period: 6M	n/a	n/a	361
+753.4900000000	n/a	376745	probe: 6M	n/a	n/a	61
+755.9800000000	n/a	377990	Response: 6M: error	n/a	n/a	4610
+759.6700000000	n/a	379835	start of the trial	n/a	n/a	500
+760.0300000000	n/a	380015	start of the baseline period: Manipulation with 6 letters (6M)	n/a	n/a	161
+763.1700000000	n/a	381585	presentation of the task instruction	n/a	n/a	4
+763.8400000000	n/a	381920	encoding: 6M	n/a	n/a	261
+766.9800000000	n/a	383490	delay period: 6M	n/a	n/a	361
+773.6500000000	n/a	386825	probe: 6M	n/a	n/a	61
+779.2800000000	n/a	389640	Response: 6M: correct	n/a	n/a	4611
+780.0800000000	n/a	390040	start of the trial	n/a	n/a	500
+780.4200000000	n/a	390210	start of the baseline period: Manipulation with 6 letters (6M)	n/a	n/a	161
+783.5900000000	n/a	391795	presentation of the task instruction	n/a	n/a	4
+784.2200000000	n/a	392110	encoding: 6M	n/a	n/a	261
+787.3900000000	n/a	393695	delay period: 6M	n/a	n/a	361
+794.0400000000	n/a	397020	probe: 6M	n/a	n/a	61
+798.4760000000	n/a	399238	Response: 6M: correct	n/a	n/a	4611
+800.4800000000	n/a	400240	start of the trial	n/a	n/a	500
+800.8500000000	n/a	400425	start of the baseline period: Manipulation with 6 letters (6M)	n/a	n/a	161
+803.9900000000	n/a	401995	presentation of the task instruction	n/a	n/a	4
+804.6500000000	n/a	402325	encoding: 6M	n/a	n/a	261
+807.7900000000	n/a	403895	delay period: 6M	n/a	n/a	361
+814.4500000000	n/a	407225	probe: 6M	n/a	n/a	61
+820.7300000000	n/a	410365	start of the trial	n/a	n/a	500
+821.1000000000	n/a	410550	start of the baseline period: Manipulation with 6 letters (6M)	n/a	n/a	161
+821.2100000000	n/a	410605	Response: 6M: correct	n/a	n/a	4611
+824.2400000000	n/a	412120	presentation of the task instruction	n/a	n/a	4
+824.8900000000	n/a	412445	encoding: 6M	n/a	n/a	261
+828.0600000000	n/a	414030	delay period: 6M	n/a	n/a	361
+834.7000000000	n/a	417350	probe: 6M	n/a	n/a	61
+837.9300000000	n/a	418965	Response: 6M: error	n/a	n/a	4610
+840.8100000000	n/a	420405	start of the trial	n/a	n/a	500
+841.1800000000	n/a	420590	start of the baseline period: Manipulation with 6 letters (6M)	n/a	n/a	161
+844.3200000000	n/a	422160	presentation of the task instruction	n/a	n/a	4
+844.9900000000	n/a	422495	encoding: 6M	n/a	n/a	261
+848.1200000000	n/a	424060	delay period: 6M	n/a	n/a	361
+854.7900000000	n/a	427395	probe: 6M	n/a	n/a	61
+856.4260000000	n/a	428213	Response: 6M: correct	n/a	n/a	4611
+861.2300000000	n/a	430615	start of the trial	n/a	n/a	500
+861.6000000000	n/a	430800	start of the baseline period: Manipulation with 6 letters (6M)	n/a	n/a	161
+864.7300000000	n/a	432365	presentation of the task instruction	n/a	n/a	4
+865.4000000000	n/a	432700	encoding: 6M	n/a	n/a	261
+868.5400000000	n/a	434270	delay period: 6M	n/a	n/a	361
+875.2200000000	n/a	437610	probe: 6M	n/a	n/a	61
+878.3160000000	n/a	439158	Response: 6M: error	n/a	n/a	4610
+881.6300000000	n/a	440815	start of the trial	n/a	n/a	500
+881.9600000000	n/a	440980	start of the baseline period: Manipulation with 6 letters (6M)	n/a	n/a	161
+885.1300000000	n/a	442565	presentation of the task instruction	n/a	n/a	4
+885.7700000000	n/a	442885	encoding: 6M	n/a	n/a	261
+888.9400000000	n/a	444470	delay period: 6M	n/a	n/a	361
+895.5800000000	n/a	447790	probe: 6M	n/a	n/a	61
+897.5080000000	n/a	448754	Response: 6M: error	n/a	n/a	4610
+902.0900000000	n/a	451045	start of the trial	n/a	n/a	500
+902.4300000000	n/a	451215	start of the baseline period: Manipulation with 7 letters (7M)	n/a	n/a	171
+905.6000000000	n/a	452800	presentation of the task instruction	n/a	n/a	4
+906.2300000000	n/a	453115	encoding: 7M	n/a	n/a	271
+909.3900000000	n/a	454695	delay period: 7M	n/a	n/a	371
+916.0700000000	n/a	458035	probe: 7M	n/a	n/a	71
+917.8860000000	n/a	458943	Response: 7M: error	n/a	n/a	4710
+922.5100000000	n/a	461255	start of the trial	n/a	n/a	500
+922.8800000000	n/a	461440	start of the baseline period: Manipulation with 7 letters (7M)	n/a	n/a	171
+926.0200000000	n/a	463010	presentation of the task instruction	n/a	n/a	4
+926.6800000000	n/a	463340	encoding: 7M	n/a	n/a	271
+929.8200000000	n/a	464910	delay period: 7M	n/a	n/a	371
+936.5000000000	n/a	468250	probe: 7M	n/a	n/a	71
+939.6260000000	n/a	469813	Response: 7M: correct	n/a	n/a	4711
+942.8400000000	n/a	471420	start of the trial	n/a	n/a	500
+943.2100000000	n/a	471605	start of the baseline period: Manipulation with 7 letters (7M)	n/a	n/a	171
+946.3500000000	n/a	473175	presentation of the task instruction	n/a	n/a	4
+947.0200000000	n/a	473510	encoding: 7M	n/a	n/a	271
+950.1500000000	n/a	475075	delay period: 7M	n/a	n/a	371
+956.8200000000	n/a	478410	probe: 7M	n/a	n/a	71
+961.9800000000	n/a	480990	Response: 7M: error	n/a	n/a	4710
+963.0300000000	n/a	481515	start of the trial	n/a	n/a	500
+963.3600000000	n/a	481680	start of the baseline period: Manipulation with 7 letters (7M)	n/a	n/a	171
+966.5300000000	n/a	483265	presentation of the task instruction	n/a	n/a	4
+967.1700000000	n/a	483585	encoding: 7M	n/a	n/a	271
+970.3400000000	n/a	485170	delay period: 7M	n/a	n/a	371
+976.9800000000	n/a	488490	probe: 7M	n/a	n/a	71
+980.9820000000	n/a	490491	Response: 7M: error	n/a	n/a	4710
+983.3300000000	n/a	491665	start of the trial	n/a	n/a	500
+983.6900000000	n/a	491845	start of the baseline period: Manipulation with 7 letters (7M)	n/a	n/a	171
+986.8300000000	n/a	493415	presentation of the task instruction	n/a	n/a	4
+987.5000000000	n/a	493750	encoding: 7M	n/a	n/a	271
+990.6400000000	n/a	495320	delay period: 7M	n/a	n/a	371
+997.3100000000	n/a	498655	probe: 7M	n/a	n/a	71
+1002.4900000000	n/a	501245	Response: 7M: error	n/a	n/a	4710
+1003.9000000000	n/a	501950	start of the trial	n/a	n/a	500
+1004.2000000000	n/a	502100	start of the baseline period: Manipulation with 7 letters (7M)	n/a	n/a	171
+1007.4000000000	n/a	503700	presentation of the task instruction	n/a	n/a	4
+1008.0000000000	n/a	504000	encoding: 7M	n/a	n/a	271
+1011.2000000000	n/a	505600	delay period: 7M	n/a	n/a	371
+1017.8000000000	n/a	508900	probe: 7M	n/a	n/a	71
+1019.7020000000	n/a	509851	Response: 7M: correct	n/a	n/a	4711
+1024.4000000000	n/a	512200	start of the trial	n/a	n/a	500
+1024.8000000000	n/a	512400	start of the baseline period: Manipulation with 7 letters (7M)	n/a	n/a	171
+1027.9000000000	n/a	513950	presentation of the task instruction	n/a	n/a	4
+1028.6000000000	n/a	514300	encoding: 7M	n/a	n/a	271
+1031.8000000000	n/a	515900	delay period: 7M	n/a	n/a	371
+1038.4000000000	n/a	519200	probe: 7M	n/a	n/a	71
+1039.7540000000	n/a	519877	Response: 7M: correct	n/a	n/a	4711
+1045.0000000000	n/a	522500	start of the trial	n/a	n/a	500
+1045.4000000000	n/a	522700	start of the baseline period: Manipulation with 7 letters (7M)	n/a	n/a	171
+1048.5000000000	n/a	524250	presentation of the task instruction	n/a	n/a	4
+1049.2000000000	n/a	524600	encoding: 7M	n/a	n/a	271
+1052.3000000000	n/a	526150	delay period: 7M	n/a	n/a	371
+1059.0000000000	n/a	529500	probe: 7M	n/a	n/a	71
+1063.3840000000	n/a	531692	Response: 7M: correct	n/a	n/a	4711
+1065.3000000000	n/a	532650	start of the trial	n/a	n/a	500
+1065.7000000000	n/a	532850	start of the baseline period: Manipulation with 7 letters (7M)	n/a	n/a	171
+1068.8000000000	n/a	534400	presentation of the task instruction	n/a	n/a	4
+1069.5000000000	n/a	534750	encoding: 7M	n/a	n/a	271
+1072.6000000000	n/a	536300	delay period: 7M	n/a	n/a	371
+1079.3000000000	n/a	539650	probe: 7M	n/a	n/a	71
+1083.8640000000	n/a	541932	Response: 7M: correct	n/a	n/a	4711
+1084.5520000000	n/a	542276	Response: 7M: error	n/a	n/a	4710
+1085.5000000000	n/a	542750	start of the trial	n/a	n/a	500
+1085.8000000000	n/a	542900	start of the baseline period: Manipulation with 7 letters (7M)	n/a	n/a	171
+1089.0000000000	n/a	544500	presentation of the task instruction	n/a	n/a	4
+1089.6000000000	n/a	544800	encoding: 7M	n/a	n/a	271
+1092.8000000000	n/a	546400	delay period: 7M	n/a	n/a	371
+1099.4000000000	n/a	549700	probe: 7M	n/a	n/a	71
+1101.7740000000	n/a	550887	Response: 7M: error	n/a	n/a	4710
+1105.9000000000	n/a	552950	start of the trial	n/a	n/a	500
+1106.2000000000	n/a	553100	start of the baseline period: Manipulation with 7 letters (7M)	n/a	n/a	171
+1109.4000000000	n/a	554700	presentation of the task instruction	n/a	n/a	4
+1110.0000000000	n/a	555000	encoding: 7M	n/a	n/a	271
+1113.2000000000	n/a	556600	delay period: 7M	n/a	n/a	371
+1119.9000000000	n/a	559950	probe: 7M	n/a	n/a	71
+1121.0660000000	n/a	560533	Response: 7M: correct	n/a	n/a	4711
+1126.3000000000	n/a	563150	start of the trial	n/a	n/a	500
+1126.7000000000	n/a	563350	start of the baseline period: Manipulation with 7 letters (7M)	n/a	n/a	171
+1129.8000000000	n/a	564900	presentation of the task instruction	n/a	n/a	4
+1130.5000000000	n/a	565250	encoding: 7M	n/a	n/a	271
+1133.7000000000	n/a	566850	delay period: 7M	n/a	n/a	371
+1140.3000000000	n/a	570150	probe: 7M	n/a	n/a	71
+1141.1300000000	n/a	570565	Response: 7M: correct	n/a	n/a	4711
+1146.8000000000	n/a	573400	start of the trial	n/a	n/a	500
+1147.1000000000	n/a	573550	start of the baseline period: Manipulation with 7 letters (7M)	n/a	n/a	171
+1150.3000000000	n/a	575150	presentation of the task instruction	n/a	n/a	4
+1150.9000000000	n/a	575450	encoding: 7M	n/a	n/a	271
+1154.1000000000	n/a	577050	delay period: 7M	n/a	n/a	371
+1160.7000000000	n/a	580350	probe: 7M	n/a	n/a	71
+1163.1160000000	n/a	581558	Response: 7M: error	n/a	n/a	4710
+1166.9240000000	n/a	583462	Response: 7M: correct	n/a	n/a	4711
+1167.0000000000	n/a	583500	start of the trial	n/a	n/a	500
+1167.3000000000	n/a	583650	start of the baseline period: Manipulation with 7 letters (7M)	n/a	n/a	171
+1170.5000000000	n/a	585250	presentation of the task instruction	n/a	n/a	4
+1171.1000000000	n/a	585550	encoding: 7M	n/a	n/a	271
+1174.3000000000	n/a	587150	delay period: 7M	n/a	n/a	371
+1181.0000000000	n/a	590500	probe: 7M	n/a	n/a	71
+1184.8040000000	n/a	592402	Response: 7M: correct	n/a	n/a	4711
+1187.2000000000	n/a	593600	start of the trial	n/a	n/a	500
+1187.5000000000	n/a	593750	start of the baseline period: Manipulation with 7 letters (7M)	n/a	n/a	171
+1190.7000000000	n/a	595350	presentation of the task instruction	n/a	n/a	4
+1191.3000000000	n/a	595650	encoding: 7M	n/a	n/a	271
+1194.5000000000	n/a	597250	delay period: 7M	n/a	n/a	371
+1201.2000000000	n/a	600600	probe: 7M	n/a	n/a	71
+1204.3400000000	n/a	602170	Response: 7M: correct	n/a	n/a	4711
+1207.4000000000	n/a	603700	start of the trial	n/a	n/a	500
+1207.8000000000	n/a	603900	start of the baseline period: Manipulation with 7 letters (7M)	n/a	n/a	171
+1210.9000000000	n/a	605450	presentation of the task instruction	n/a	n/a	4
+1211.6000000000	n/a	605800	encoding: 7M	n/a	n/a	271
+1214.7000000000	n/a	607350	delay period: 7M	n/a	n/a	371
+1221.4000000000	n/a	610700	probe: 7M	n/a	n/a	71
+1223.5540000000	n/a	611777	Response: 7M: correct	n/a	n/a	4711
+1227.6000000000	n/a	613800	start of the trial	n/a	n/a	500
+1227.9000000000	n/a	613950	start of the baseline period: Manipulation with 7 letters (7M)	n/a	n/a	171
+1231.1000000000	n/a	615550	presentation of the task instruction	n/a	n/a	4
+1231.7000000000	n/a	615850	encoding: 7M	n/a	n/a	271
+1234.9000000000	n/a	617450	delay period: 7M	n/a	n/a	371
+1241.5000000000	n/a	620750	probe: 7M	n/a	n/a	71
+1243.0580000000	n/a	621529	Response: 7M: error	n/a	n/a	4710
+1248.0000000000	n/a	624000	start of the trial	n/a	n/a	500
+1248.4000000000	n/a	624200	start of the baseline period: Manipulation with 7 letters (7M)	n/a	n/a	171
+1251.5000000000	n/a	625750	presentation of the task instruction	n/a	n/a	4
+1252.2000000000	n/a	626100	encoding: 7M	n/a	n/a	271
+1255.3000000000	n/a	627650	delay period: 7M	n/a	n/a	371
+1262.0000000000	n/a	631000	probe: 7M	n/a	n/a	71
+1263.3000000000	n/a	631650	Response: 7M: correct	n/a	n/a	4711
+1268.2000000000	n/a	634100	start of the trial	n/a	n/a	500
+1268.6000000000	n/a	634300	start of the baseline period: Manipulation with 7 letters (7M)	n/a	n/a	171
+1271.7000000000	n/a	635850	presentation of the task instruction	n/a	n/a	4
+1272.4000000000	n/a	636200	encoding: 7M	n/a	n/a	271
+1275.5000000000	n/a	637750	delay period: 7M	n/a	n/a	371
+1282.2000000000	n/a	641100	probe: 7M	n/a	n/a	71
+1283.9760000000	n/a	641988	Response: 7M: correct	n/a	n/a	4711
+1288.4000000000	n/a	644200	start of the trial	n/a	n/a	500
+1288.7000000000	n/a	644350	start of the baseline period: Manipulation with 7 letters (7M)	n/a	n/a	171
+1291.9000000000	n/a	645950	presentation of the task instruction	n/a	n/a	4
+1292.5000000000	n/a	646250	encoding: 7M	n/a	n/a	271
+1295.7000000000	n/a	647850	delay period: 7M	n/a	n/a	371
+1302.4000000000	n/a	651200	probe: 7M	n/a	n/a	71
+1305.7140000000	n/a	652857	Response: 7M: correct	n/a	n/a	4711
+1308.8000000000	n/a	654400	start of the trial	n/a	n/a	500
+1309.1000000000	n/a	654550	start of the baseline period: Retention of 7 letters (7R)	n/a	n/a	170
+1312.3000000000	n/a	656150	presentation of the task instruction	n/a	n/a	4
+1312.9000000000	n/a	656450	encoding: 7R	n/a	n/a	270
+1316.1000000000	n/a	658050	delay period: 7R	n/a	n/a	370
+1322.8000000000	n/a	661400	probe: 7R	n/a	n/a	70
+1325.5120000000	n/a	662756	Response: 7R: error	n/a	n/a	4700
+1329.0000000000	n/a	664500	start of the trial	n/a	n/a	500
+1329.4000000000	n/a	664700	start of the baseline period: Retention of 7 letters (7R)	n/a	n/a	170
+1332.5000000000	n/a	666250	presentation of the task instruction	n/a	n/a	4
+1333.2000000000	n/a	666600	encoding: 7R	n/a	n/a	270
+1336.3000000000	n/a	668150	delay period: 7R	n/a	n/a	370
+1343.0000000000	n/a	671500	probe: 7R	n/a	n/a	70
+1344.8620000000	n/a	672431	Response: 7R: correct	n/a	n/a	4701
+1349.6000000000	n/a	674800	start of the trial	n/a	n/a	500
+1349.9000000000	n/a	674950	start of the baseline period: Retention of 7 letters (7R)	n/a	n/a	170
+1353.1000000000	n/a	676550	presentation of the task instruction	n/a	n/a	4
+1353.7000000000	n/a	676850	encoding: 7R	n/a	n/a	270
+1356.9000000000	n/a	678450	delay period: 7R	n/a	n/a	370
+1363.6000000000	n/a	681800	probe: 7R	n/a	n/a	70
+1366.1220000000	n/a	683061	Response: 7R: correct	n/a	n/a	4701
+1369.7000000000	n/a	684850	start of the trial	n/a	n/a	500
+1370.1000000000	n/a	685050	start of the baseline period: Retention of 7 letters (7R)	n/a	n/a	170
+1373.2000000000	n/a	686600	presentation of the task instruction	n/a	n/a	4
+1373.9000000000	n/a	686950	encoding: 7R	n/a	n/a	270
+1377.0000000000	n/a	688500	delay period: 7R	n/a	n/a	370
+1383.7000000000	n/a	691850	probe: 7R	n/a	n/a	70
+1384.8260000000	n/a	692413	Response: 7R: correct	n/a	n/a	4701
+1390.1000000000	n/a	695050	start of the trial	n/a	n/a	500
+1390.4000000000	n/a	695200	start of the baseline period: Retention of 7 letters (7R)	n/a	n/a	170
+1393.6000000000	n/a	696800	presentation of the task instruction	n/a	n/a	4
+1394.2000000000	n/a	697100	encoding: 7R	n/a	n/a	270
+1397.4000000000	n/a	698700	delay period: 7R	n/a	n/a	370
+1404.0000000000	n/a	702000	probe: 7R	n/a	n/a	70
+1405.3580000000	n/a	702679	Response: 7R: correct	n/a	n/a	4701
+1410.5000000000	n/a	705250	start of the trial	n/a	n/a	500
+1410.8000000000	n/a	705400	start of the baseline period: Retention of 7 letters (7R)	n/a	n/a	170
+1414.0000000000	n/a	707000	presentation of the task instruction	n/a	n/a	4
+1414.6000000000	n/a	707300	encoding: 7R	n/a	n/a	270
+1417.8000000000	n/a	708900	delay period: 7R	n/a	n/a	370
+1424.4000000000	n/a	712200	probe: 7R	n/a	n/a	70
+1426.5340000000	n/a	713267	Response: 7R: error	n/a	n/a	4700
+1429.1500000000	n/a	714575	Response: 7R: correct	n/a	n/a	4701
+1431.0000000000	n/a	715500	start of the trial	n/a	n/a	500
+1431.4000000000	n/a	715700	start of the baseline period: Retention of 7 letters (7R)	n/a	n/a	170
+1434.5000000000	n/a	717250	presentation of the task instruction	n/a	n/a	4
+1435.2000000000	n/a	717600	encoding: 7R	n/a	n/a	270
+1438.3000000000	n/a	719150	delay period: 7R	n/a	n/a	370
+1445.0000000000	n/a	722500	probe: 7R	n/a	n/a	70
+1447.4160000000	n/a	723708	Response: 7R: correct	n/a	n/a	4701
+1451.3000000000	n/a	725650	start of the trial	n/a	n/a	500
+1451.7000000000	n/a	725850	start of the baseline period: Retention of 7 letters (7R)	n/a	n/a	170
+1454.8000000000	n/a	727400	presentation of the task instruction	n/a	n/a	4
+1455.5000000000	n/a	727750	encoding: 7R	n/a	n/a	270
+1458.6000000000	n/a	729300	delay period: 7R	n/a	n/a	370
+1465.3000000000	n/a	732650	probe: 7R	n/a	n/a	70
+1467.5620000000	n/a	733781	Response: 7R: correct	n/a	n/a	4701
+1471.8000000000	n/a	735900	start of the trial	n/a	n/a	500
+1472.2000000000	n/a	736100	start of the baseline period: Retention of 7 letters (7R)	n/a	n/a	170
+1475.3000000000	n/a	737650	presentation of the task instruction	n/a	n/a	4
+1475.9000000000	n/a	737950	encoding: 7R	n/a	n/a	270
+1479.1000000000	n/a	739550	delay period: 7R	n/a	n/a	370
+1485.8000000000	n/a	742900	probe: 7R	n/a	n/a	70
+1487.2280000000	n/a	743614	Response: 7R: correct	n/a	n/a	4701
+1491.9000000000	n/a	745950	start of the trial	n/a	n/a	500
+1492.3000000000	n/a	746150	start of the baseline period: Retention of 7 letters (7R)	n/a	n/a	170
+1495.4000000000	n/a	747700	presentation of the task instruction	n/a	n/a	4
+1496.1000000000	n/a	748050	encoding: 7R	n/a	n/a	270
+1499.2000000000	n/a	749600	delay period: 7R	n/a	n/a	370
+1505.9000000000	n/a	752950	probe: 7R	n/a	n/a	70
+1509.3300000000	n/a	754665	Response: 7R: correct	n/a	n/a	4701
+1512.3000000000	n/a	756150	start of the trial	n/a	n/a	500
+1512.7000000000	n/a	756350	start of the baseline period: Retention of 7 letters (7R)	n/a	n/a	170
+1515.8000000000	n/a	757900	presentation of the task instruction	n/a	n/a	4
+1516.5000000000	n/a	758250	encoding: 7R	n/a	n/a	270
+1519.6000000000	n/a	759800	delay period: 7R	n/a	n/a	370
+1526.3000000000	n/a	763150	probe: 7R	n/a	n/a	70
+1529.2640000000	n/a	764632	Response: 7R: error	n/a	n/a	4700
+1532.8000000000	n/a	766400	start of the trial	n/a	n/a	500
+1533.2000000000	n/a	766600	start of the baseline period: Retention of 7 letters (7R)	n/a	n/a	170
+1536.3000000000	n/a	768150	presentation of the task instruction	n/a	n/a	4
+1537.0000000000	n/a	768500	encoding: 7R	n/a	n/a	270
+1540.1000000000	n/a	770050	delay period: 7R	n/a	n/a	370
+1546.8000000000	n/a	773400	probe: 7R	n/a	n/a	70
+1551.3480000000	n/a	775674	Response: 7R: correct	n/a	n/a	4701
+1553.0000000000	n/a	776500	start of the trial	n/a	n/a	500
+1553.4000000000	n/a	776700	start of the baseline period: Retention of 7 letters (7R)	n/a	n/a	170
+1556.5000000000	n/a	778250	presentation of the task instruction	n/a	n/a	4
+1557.2000000000	n/a	778600	encoding: 7R	n/a	n/a	270
+1560.3000000000	n/a	780150	delay period: 7R	n/a	n/a	370
+1567.0000000000	n/a	783500	probe: 7R	n/a	n/a	70
+1568.3720000000	n/a	784186	Response: 7R: correct	n/a	n/a	4701
+1573.3000000000	n/a	786650	start of the trial	n/a	n/a	500
+1573.6000000000	n/a	786800	start of the baseline period: Retention of 7 letters (7R)	n/a	n/a	170
+1576.8000000000	n/a	788400	presentation of the task instruction	n/a	n/a	4
+1577.4000000000	n/a	788700	encoding: 7R	n/a	n/a	270
+1580.6000000000	n/a	790300	delay period: 7R	n/a	n/a	370
+1587.2000000000	n/a	793600	probe: 7R	n/a	n/a	70
+1590.0220000000	n/a	795011	Response: 7R: correct	n/a	n/a	4701
+1593.8000000000	n/a	796900	start of the trial	n/a	n/a	500
+1594.1000000000	n/a	797050	start of the baseline period: Retention of 7 letters (7R)	n/a	n/a	170
+1597.3000000000	n/a	798650	presentation of the task instruction	n/a	n/a	4
+1597.9000000000	n/a	798950	encoding: 7R	n/a	n/a	270
+1601.1000000000	n/a	800550	delay period: 7R	n/a	n/a	370
+1607.7000000000	n/a	803850	probe: 7R	n/a	n/a	70
+1609.3940000000	n/a	804697	Response: 7R: correct	n/a	n/a	4701
+1614.3000000000	n/a	807150	start of the trial	n/a	n/a	500
+1614.7000000000	n/a	807350	start of the baseline period: Retention of 7 letters (7R)	n/a	n/a	170
+1617.8000000000	n/a	808900	presentation of the task instruction	n/a	n/a	4
+1618.5000000000	n/a	809250	encoding: 7R	n/a	n/a	270
+1621.6000000000	n/a	810800	delay period: 7R	n/a	n/a	370
+1628.3000000000	n/a	814150	probe: 7R	n/a	n/a	70
+1633.5420000000	n/a	816771	Response: 7R: error	n/a	n/a	4700
+1634.5000000000	n/a	817250	start of the trial	n/a	n/a	500
+1634.9000000000	n/a	817450	start of the baseline period: Retention of 7 letters (7R)	n/a	n/a	170
+1638.0000000000	n/a	819000	presentation of the task instruction	n/a	n/a	4
+1638.7000000000	n/a	819350	encoding: 7R	n/a	n/a	270
+1641.8000000000	n/a	820900	delay period: 7R	n/a	n/a	370
+1648.5000000000	n/a	824250	probe: 7R	n/a	n/a	70
+1650.0880000000	n/a	825044	Response: 7R: correct	n/a	n/a	4701
+1654.8000000000	n/a	827400	start of the trial	n/a	n/a	500
+1655.1000000000	n/a	827550	start of the baseline period: Retention of 7 letters (7R)	n/a	n/a	170
+1658.3000000000	n/a	829150	presentation of the task instruction	n/a	n/a	4
+1658.9000000000	n/a	829450	encoding: 7R	n/a	n/a	270
+1662.1000000000	n/a	831050	delay period: 7R	n/a	n/a	370
+1668.7000000000	n/a	834350	probe: 7R	n/a	n/a	70
+1669.9060000000	n/a	834953	Response: 7R: correct	n/a	n/a	4701
+1675.0000000000	n/a	837500	start of the trial	n/a	n/a	500
+1675.3000000000	n/a	837650	start of the baseline period: Retention of 7 letters (7R)	n/a	n/a	170
+1678.5000000000	n/a	839250	presentation of the task instruction	n/a	n/a	4
+1679.1000000000	n/a	839550	encoding: 7R	n/a	n/a	270
+1682.3000000000	n/a	841150	delay period: 7R	n/a	n/a	370
+1688.9000000000	n/a	844450	probe: 7R	n/a	n/a	70
+1692.2560000000	n/a	846128	Response: 7R: correct	n/a	n/a	4701
+1695.3000000000	n/a	847650	start of the trial	n/a	n/a	500
+1695.7000000000	n/a	847850	start of the baseline period: Retention of 7 letters (7R)	n/a	n/a	170
+1698.8000000000	n/a	849400	presentation of the task instruction	n/a	n/a	4
+1699.5000000000	n/a	849750	encoding: 7R	n/a	n/a	270
+1702.6000000000	n/a	851300	delay period: 7R	n/a	n/a	370
+1709.3000000000	n/a	854650	probe: 7R	n/a	n/a	70
+1711.7600000000	n/a	855880	Response: 7R: correct	n/a	n/a	4701
+1715.8000000000	n/a	857900	start of the trial	n/a	n/a	500
+1716.1000000000	n/a	858050	start of the baseline period: Retention of 6 letters (6R)	n/a	n/a	160
+1719.3000000000	n/a	859650	presentation of the task instruction	n/a	n/a	4
+1719.9000000000	n/a	859950	encoding: 6R	n/a	n/a	260
+1723.1000000000	n/a	861550	delay period: 6R	n/a	n/a	360
+1729.7000000000	n/a	864850	probe: 6R	n/a	n/a	60
+1733.2520000000	n/a	866626	Response: 6R: correct	n/a	n/a	4601
+1736.1000000000	n/a	868050	start of the trial	n/a	n/a	500
+1736.5000000000	n/a	868250	start of the baseline period: Retention of 6 letters (6R)	n/a	n/a	160
+1739.6000000000	n/a	869800	presentation of the task instruction	n/a	n/a	4
+1740.3000000000	n/a	870150	encoding: 6R	n/a	n/a	260
+1743.4000000000	n/a	871700	delay period: 6R	n/a	n/a	360
+1750.1000000000	n/a	875050	probe: 6R	n/a	n/a	60
+1751.4740000000	n/a	875737	Response: 6R: correct	n/a	n/a	4601
+1756.7000000000	n/a	878350	start of the trial	n/a	n/a	500
+1757.0000000000	n/a	878500	start of the baseline period: Retention of 6 letters (6R)	n/a	n/a	160
+1760.2000000000	n/a	880100	presentation of the task instruction	n/a	n/a	4
+1760.8000000000	n/a	880400	encoding: 6R	n/a	n/a	260
+1764.0000000000	n/a	882000	delay period: 6R	n/a	n/a	360
+1770.6000000000	n/a	885300	probe: 6R	n/a	n/a	60
+1773.5620000000	n/a	886781	Response: 6R: correct	n/a	n/a	4601
+1776.9000000000	n/a	888450	start of the trial	n/a	n/a	500
+1777.3000000000	n/a	888650	start of the baseline period: Retention of 6 letters (6R)	n/a	n/a	160
+1780.4000000000	n/a	890200	presentation of the task instruction	n/a	n/a	4
+1781.1000000000	n/a	890550	encoding: 6R	n/a	n/a	260
+1784.2000000000	n/a	892100	delay period: 6R	n/a	n/a	360
+1790.9000000000	n/a	895450	probe: 6R	n/a	n/a	60
+1793.8860000000	n/a	896943	Response: 6R: correct	n/a	n/a	4601
+1797.4000000000	n/a	898700	start of the trial	n/a	n/a	500
+1797.8000000000	n/a	898900	start of the baseline period: Retention of 6 letters (6R)	n/a	n/a	160
+1800.9000000000	n/a	900450	presentation of the task instruction	n/a	n/a	4
+1801.6000000000	n/a	900800	encoding: 6R	n/a	n/a	260
+1804.7000000000	n/a	902350	delay period: 6R	n/a	n/a	360
+1811.4000000000	n/a	905700	probe: 6R	n/a	n/a	60
+1814.8460000000	n/a	907423	Response: 6R: correct	n/a	n/a	4601
+1817.7000000000	n/a	908850	start of the trial	n/a	n/a	500
+1818.0000000000	n/a	909000	start of the baseline period: Retention of 6 letters (6R)	n/a	n/a	160
+1821.2000000000	n/a	910600	presentation of the task instruction	n/a	n/a	4
+1821.9000000000	n/a	910950	encoding: 6R	n/a	n/a	260
+1825.0000000000	n/a	912500	delay period: 6R	n/a	n/a	360
+1831.7000000000	n/a	915850	probe: 6R	n/a	n/a	60
+1832.9720000000	n/a	916486	Response: 6R: correct	n/a	n/a	4601
+1837.9000000000	n/a	918950	start of the trial	n/a	n/a	500
+1838.3000000000	n/a	919150	start of the baseline period: Retention of 6 letters (6R)	n/a	n/a	160
+1841.4000000000	n/a	920700	presentation of the task instruction	n/a	n/a	4
+1842.1000000000	n/a	921050	encoding: 6R	n/a	n/a	260
+1845.2000000000	n/a	922600	delay period: 6R	n/a	n/a	360
+1851.9000000000	n/a	925950	probe: 6R	n/a	n/a	60
+1853.4420000000	n/a	926721	Response: 6R: correct	n/a	n/a	4601
+1858.5000000000	n/a	929250	start of the trial	n/a	n/a	500
+1858.8000000000	n/a	929400	start of the baseline period: Retention of 6 letters (6R)	n/a	n/a	160
+1862.0000000000	n/a	931000	presentation of the task instruction	n/a	n/a	4
+1862.6000000000	n/a	931300	encoding: 6R	n/a	n/a	260
+1865.8000000000	n/a	932900	delay period: 6R	n/a	n/a	360
+1872.4000000000	n/a	936200	probe: 6R	n/a	n/a	60
+1874.7520000000	n/a	937376	Response: 6R: correct	n/a	n/a	4601
+1878.7000000000	n/a	939350	start of the trial	n/a	n/a	500
+1879.1000000000	n/a	939550	start of the baseline period: Retention of 6 letters (6R)	n/a	n/a	160
+1882.3000000000	n/a	941150	presentation of the task instruction	n/a	n/a	4
+1882.9000000000	n/a	941450	encoding: 6R	n/a	n/a	260
+1886.1000000000	n/a	943050	delay period: 6R	n/a	n/a	360
+1892.7000000000	n/a	946350	probe: 6R	n/a	n/a	60
+1894.4360000000	n/a	947218	Response: 6R: correct	n/a	n/a	4601
+1899.3000000000	n/a	949650	start of the trial	n/a	n/a	500
+1899.6000000000	n/a	949800	start of the baseline period: Retention of 6 letters (6R)	n/a	n/a	160
+1902.8000000000	n/a	951400	presentation of the task instruction	n/a	n/a	4
+1903.4000000000	n/a	951700	encoding: 6R	n/a	n/a	260
+1906.6000000000	n/a	953300	delay period: 6R	n/a	n/a	360
+1913.2000000000	n/a	956600	probe: 6R	n/a	n/a	60
+1914.2440000000	n/a	957122	Response: 6R: correct	n/a	n/a	4601
+1919.7000000000	n/a	959850	start of the trial	n/a	n/a	500
+1920.0000000000	n/a	960000	start of the baseline period: Retention of 6 letters (6R)	n/a	n/a	160
+1923.2000000000	n/a	961600	presentation of the task instruction	n/a	n/a	4
+1923.8000000000	n/a	961900	encoding: 6R	n/a	n/a	260
+1927.0000000000	n/a	963500	delay period: 6R	n/a	n/a	360
+1933.7000000000	n/a	966850	probe: 6R	n/a	n/a	60
+1935.0040000000	n/a	967502	Response: 6R: correct	n/a	n/a	4601
+1940.1000000000	n/a	970050	start of the trial	n/a	n/a	500
+1940.4000000000	n/a	970200	start of the baseline period: Retention of 6 letters (6R)	n/a	n/a	160
+1943.6000000000	n/a	971800	presentation of the task instruction	n/a	n/a	4
+1944.2000000000	n/a	972100	encoding: 6R	n/a	n/a	260
+1947.4000000000	n/a	973700	delay period: 6R	n/a	n/a	360
+1954.1000000000	n/a	977050	probe: 6R	n/a	n/a	60
+1955.1940000000	n/a	977597	Response: 6R: correct	n/a	n/a	4601
+1960.6000000000	n/a	980300	start of the trial	n/a	n/a	500
+1961.0000000000	n/a	980500	start of the baseline period: Retention of 6 letters (6R)	n/a	n/a	160
+1964.1000000000	n/a	982050	presentation of the task instruction	n/a	n/a	4
+1964.8000000000	n/a	982400	encoding: 6R	n/a	n/a	260
+1968.0000000000	n/a	984000	delay period: 6R	n/a	n/a	360
+1974.6000000000	n/a	987300	probe: 6R	n/a	n/a	60
+1976.0500000000	n/a	988025	Response: 6R: correct	n/a	n/a	4601
+1981.1000000000	n/a	990550	start of the trial	n/a	n/a	500
+1981.4000000000	n/a	990700	start of the baseline period: Retention of 6 letters (6R)	n/a	n/a	160
+1984.6000000000	n/a	992300	presentation of the task instruction	n/a	n/a	4
+1985.2000000000	n/a	992600	encoding: 6R	n/a	n/a	260
+1988.4000000000	n/a	994200	delay period: 6R	n/a	n/a	360
+1995.0000000000	n/a	997500	probe: 6R	n/a	n/a	60
+1996.8980000000	n/a	998449	Response: 6R: correct	n/a	n/a	4601
+2001.3000000000	n/a	1000650	start of the trial	n/a	n/a	500
+2001.7000000000	n/a	1000850	start of the baseline period: Retention of 6 letters (6R)	n/a	n/a	160
+2004.8000000000	n/a	1002400	presentation of the task instruction	n/a	n/a	4
+2005.5000000000	n/a	1002750	encoding: 6R	n/a	n/a	260
+2008.6000000000	n/a	1004300	delay period: 6R	n/a	n/a	360
+2015.3000000000	n/a	1007650	probe: 6R	n/a	n/a	60
+2017.6140000000	n/a	1008807	Response: 6R: correct	n/a	n/a	4601
+2021.6000000000	n/a	1010800	start of the trial	n/a	n/a	500
+2022.0000000000	n/a	1011000	start of the baseline period: Retention of 6 letters (6R)	n/a	n/a	160
+2025.1000000000	n/a	1012550	presentation of the task instruction	n/a	n/a	4
+2025.8000000000	n/a	1012900	encoding: 6R	n/a	n/a	260
+2028.9000000000	n/a	1014450	delay period: 6R	n/a	n/a	360
+2035.6000000000	n/a	1017800	probe: 6R	n/a	n/a	60
+2036.5100000000	n/a	1018255	Response: 6R: correct	n/a	n/a	4601
+2042.2000000000	n/a	1021100	start of the trial	n/a	n/a	500
+2042.5000000000	n/a	1021250	start of the baseline period: Retention of 6 letters (6R)	n/a	n/a	160
+2045.7000000000	n/a	1022850	presentation of the task instruction	n/a	n/a	4
+2046.3000000000	n/a	1023150	encoding: 6R	n/a	n/a	260
+2049.5000000000	n/a	1024750	delay period: 6R	n/a	n/a	360
+2056.2000000000	n/a	1028100	probe: 6R	n/a	n/a	60
+2058.4220000000	n/a	1029211	Response: 6R: correct	n/a	n/a	4601
+2062.7000000000	n/a	1031350	start of the trial	n/a	n/a	500
+2063.1000000000	n/a	1031550	start of the baseline period: Retention of 6 letters (6R)	n/a	n/a	160
+2066.2000000000	n/a	1033100	presentation of the task instruction	n/a	n/a	4
+2066.9000000000	n/a	1033450	encoding: 6R	n/a	n/a	260
+2070.0000000000	n/a	1035000	delay period: 6R	n/a	n/a	360
+2076.7000000000	n/a	1038350	probe: 6R	n/a	n/a	60
+2080.6920000000	n/a	1040346	Response: 6R: correct	n/a	n/a	4601
+2083.0000000000	n/a	1041500	start of the trial	n/a	n/a	500
+2083.3000000000	n/a	1041650	start of the baseline period: Retention of 6 letters (6R)	n/a	n/a	160
+2086.5000000000	n/a	1043250	presentation of the task instruction	n/a	n/a	4
+2087.1000000000	n/a	1043550	encoding: 6R	n/a	n/a	260
+2090.3000000000	n/a	1045150	delay period: 6R	n/a	n/a	360
+2096.9000000000	n/a	1048450	probe: 6R	n/a	n/a	60
+2098.3600000000	n/a	1049180	Response: 6R: correct	n/a	n/a	4601
+2103.2000000000	n/a	1051600	start of the trial	n/a	n/a	500
+2103.6000000000	n/a	1051800	start of the baseline period: Retention of 6 letters (6R)	n/a	n/a	160
+2106.7000000000	n/a	1053350	presentation of the task instruction	n/a	n/a	4
+2107.4000000000	n/a	1053700	encoding: 6R	n/a	n/a	260
+2110.5000000000	n/a	1055250	delay period: 6R	n/a	n/a	360
+2117.2000000000	n/a	1058600	probe: 6R	n/a	n/a	60
+2120.0560000000	n/a	1060028	Response: 6R: correct	n/a	n/a	4601
+2123.6000000000	n/a	1061800	start of the trial	n/a	n/a	500
+2123.9000000000	n/a	1061950	start of the baseline period: Manipulation with 5 letters (5M)	n/a	n/a	151
+2127.1000000000	n/a	1063550	presentation of the task instruction	n/a	n/a	4
+2127.7000000000	n/a	1063850	encoding: 5M	n/a	n/a	251
+2130.9000000000	n/a	1065450	delay period: 5M	n/a	n/a	351
+2137.5000000000	n/a	1068750	probe: 5M	n/a	n/a	51
+2139.2600000000	n/a	1069630	Response: 5M: error	n/a	n/a	4510
+2144.0000000000	n/a	1072000	start of the trial	n/a	n/a	500
+2144.3000000000	n/a	1072150	start of the baseline period: Manipulation with 5 letters (5M)	n/a	n/a	151
+2147.5000000000	n/a	1073750	presentation of the task instruction	n/a	n/a	4
+2148.1000000000	n/a	1074050	encoding: 5M	n/a	n/a	251
+2151.3000000000	n/a	1075650	delay period: 5M	n/a	n/a	351
+2157.9000000000	n/a	1078950	probe: 5M	n/a	n/a	51
+2159.6780000000	n/a	1079839	Response: 5M: correct	n/a	n/a	4511
+2164.2000000000	n/a	1082100	start of the trial	n/a	n/a	500
+2164.5000000000	n/a	1082250	start of the baseline period: Manipulation with 5 letters (5M)	n/a	n/a	151
+2167.7000000000	n/a	1083850	presentation of the task instruction	n/a	n/a	4
+2168.4000000000	n/a	1084200	encoding: 5M	n/a	n/a	251
+2171.5000000000	n/a	1085750	delay period: 5M	n/a	n/a	351
+2178.2000000000	n/a	1089100	probe: 5M	n/a	n/a	51
+2182.2320000000	n/a	1091116	Response: 5M: correct	n/a	n/a	4511
+2184.5000000000	n/a	1092250	start of the trial	n/a	n/a	500
+2184.8000000000	n/a	1092400	start of the baseline period: Manipulation with 5 letters (5M)	n/a	n/a	151
+2188.0000000000	n/a	1094000	presentation of the task instruction	n/a	n/a	4
+2188.6000000000	n/a	1094300	encoding: 5M	n/a	n/a	251
+2191.8000000000	n/a	1095900	delay period: 5M	n/a	n/a	351
+2198.5000000000	n/a	1099250	probe: 5M	n/a	n/a	51
+2200.2580000000	n/a	1100129	Response: 5M: error	n/a	n/a	4510
+2204.6000000000	n/a	1102300	start of the trial	n/a	n/a	500
+2204.9000000000	n/a	1102450	start of the baseline period: Manipulation with 5 letters (5M)	n/a	n/a	151
+2208.1000000000	n/a	1104050	presentation of the task instruction	n/a	n/a	4
+2208.8000000000	n/a	1104400	encoding: 5M	n/a	n/a	251
+2211.9000000000	n/a	1105950	delay period: 5M	n/a	n/a	351
+2218.6000000000	n/a	1109300	probe: 5M	n/a	n/a	51
+2219.9320000000	n/a	1109966	Response: 5M: error	n/a	n/a	4510
+2224.8000000000	n/a	1112400	start of the trial	n/a	n/a	500
+2225.2000000000	n/a	1112600	start of the baseline period: Manipulation with 5 letters (5M)	n/a	n/a	151
+2228.3000000000	n/a	1114150	presentation of the task instruction	n/a	n/a	4
+2229.0000000000	n/a	1114500	encoding: 5M	n/a	n/a	251
+2232.1000000000	n/a	1116050	delay period: 5M	n/a	n/a	351
+2238.8000000000	n/a	1119400	probe: 5M	n/a	n/a	51
+2242.2320000000	n/a	1121116	Response: 5M: correct	n/a	n/a	4511
+2245.0000000000	n/a	1122500	start of the trial	n/a	n/a	500
+2245.3000000000	n/a	1122650	start of the baseline period: Manipulation with 5 letters (5M)	n/a	n/a	151
+2248.5000000000	n/a	1124250	presentation of the task instruction	n/a	n/a	4
+2249.1000000000	n/a	1124550	encoding: 5M	n/a	n/a	251
+2252.3000000000	n/a	1126150	delay period: 5M	n/a	n/a	351
+2258.9000000000	n/a	1129450	probe: 5M	n/a	n/a	51
+2261.2040000000	n/a	1130602	Response: 5M: correct	n/a	n/a	4511
+2265.1000000000	n/a	1132550	start of the trial	n/a	n/a	500
+2265.5000000000	n/a	1132750	start of the baseline period: Manipulation with 5 letters (5M)	n/a	n/a	151
+2268.7000000000	n/a	1134350	presentation of the task instruction	n/a	n/a	4
+2269.3000000000	n/a	1134650	encoding: 5M	n/a	n/a	251
+2272.5000000000	n/a	1136250	delay period: 5M	n/a	n/a	351
+2279.1000000000	n/a	1139550	probe: 5M	n/a	n/a	51
+2281.6640000000	n/a	1140832	Response: 5M: error	n/a	n/a	4510
+2285.6000000000	n/a	1142800	start of the trial	n/a	n/a	500
+2286.0000000000	n/a	1143000	start of the baseline period: Manipulation with 5 letters (5M)	n/a	n/a	151
+2289.1000000000	n/a	1144550	presentation of the task instruction	n/a	n/a	4
+2289.8000000000	n/a	1144900	encoding: 5M	n/a	n/a	251
+2292.9000000000	n/a	1146450	delay period: 5M	n/a	n/a	351
+2299.6000000000	n/a	1149800	probe: 5M	n/a	n/a	51
+2301.6800000000	n/a	1150840	Response: 5M: correct	n/a	n/a	4511
+2306.0000000000	n/a	1153000	start of the trial	n/a	n/a	500
+2306.4000000000	n/a	1153200	start of the baseline period: Manipulation with 5 letters (5M)	n/a	n/a	151
+2309.6000000000	n/a	1154800	presentation of the task instruction	n/a	n/a	4
+2310.2000000000	n/a	1155100	encoding: 5M	n/a	n/a	251
+2313.4000000000	n/a	1156700	delay period: 5M	n/a	n/a	351
+2320.0000000000	n/a	1160000	probe: 5M	n/a	n/a	51
+2322.1560000000	n/a	1161078	Response: 5M: correct	n/a	n/a	4511
+2326.5000000000	n/a	1163250	start of the trial	n/a	n/a	500
+2326.9000000000	n/a	1163450	start of the baseline period: Manipulation with 5 letters (5M)	n/a	n/a	151
+2330.1000000000	n/a	1165050	presentation of the task instruction	n/a	n/a	4
+2330.7000000000	n/a	1165350	encoding: 5M	n/a	n/a	251
+2333.9000000000	n/a	1166950	delay period: 5M	n/a	n/a	351
+2340.5000000000	n/a	1170250	probe: 5M	n/a	n/a	51
+2342.4380000000	n/a	1171219	Response: 5M: correct	n/a	n/a	4511
+2347.0000000000	n/a	1173500	start of the trial	n/a	n/a	500
+2347.4000000000	n/a	1173700	start of the baseline period: Manipulation with 5 letters (5M)	n/a	n/a	151
+2350.5000000000	n/a	1175250	presentation of the task instruction	n/a	n/a	4
+2351.2000000000	n/a	1175600	encoding: 5M	n/a	n/a	251
+2354.3000000000	n/a	1177150	delay period: 5M	n/a	n/a	351
+2361.0000000000	n/a	1180500	probe: 5M	n/a	n/a	51
+2364.5100000000	n/a	1182255	Response: 5M: error	n/a	n/a	4510
+2367.2000000000	n/a	1183600	start of the trial	n/a	n/a	500
+2367.6000000000	n/a	1183800	start of the baseline period: Manipulation with 5 letters (5M)	n/a	n/a	151
+2370.8000000000	n/a	1185400	presentation of the task instruction	n/a	n/a	4
+2371.4000000000	n/a	1185700	encoding: 5M	n/a	n/a	251
+2374.6000000000	n/a	1187300	delay period: 5M	n/a	n/a	351
+2381.2000000000	n/a	1190600	probe: 5M	n/a	n/a	51
+2383.5020000000	n/a	1191751	Response: 5M: correct	n/a	n/a	4511
+2387.7000000000	n/a	1193850	start of the trial	n/a	n/a	500
+2388.0000000000	n/a	1194000	start of the baseline period: Manipulation with 5 letters (5M)	n/a	n/a	151
+2391.2000000000	n/a	1195600	presentation of the task instruction	n/a	n/a	4
+2391.8000000000	n/a	1195900	encoding: 5M	n/a	n/a	251
+2395.0000000000	n/a	1197500	delay period: 5M	n/a	n/a	351
+2401.7000000000	n/a	1200850	probe: 5M	n/a	n/a	51
+2404.1540000000	n/a	1202077	Response: 5M: correct	n/a	n/a	4511
+2408.0000000000	n/a	1204000	start of the trial	n/a	n/a	500
+2408.4000000000	n/a	1204200	start of the baseline period: Manipulation with 5 letters (5M)	n/a	n/a	151
+2411.5000000000	n/a	1205750	presentation of the task instruction	n/a	n/a	4
+2412.2000000000	n/a	1206100	encoding: 5M	n/a	n/a	251
+2415.3000000000	n/a	1207650	delay period: 5M	n/a	n/a	351
+2422.0000000000	n/a	1211000	probe: 5M	n/a	n/a	51
+2424.4560000000	n/a	1212228	Response: 5M: correct	n/a	n/a	4511
+2428.5000000000	n/a	1214250	start of the trial	n/a	n/a	500
+2428.8000000000	n/a	1214400	start of the baseline period: Manipulation with 5 letters (5M)	n/a	n/a	151
+2432.0000000000	n/a	1216000	presentation of the task instruction	n/a	n/a	4
+2432.6000000000	n/a	1216300	encoding: 5M	n/a	n/a	251
+2435.8000000000	n/a	1217900	delay period: 5M	n/a	n/a	351
+2442.4000000000	n/a	1221200	probe: 5M	n/a	n/a	51
+2443.7900000000	n/a	1221895	Response: 5M: correct	n/a	n/a	4511
+2448.6000000000	n/a	1224300	start of the trial	n/a	n/a	500
+2449.0000000000	n/a	1224500	start of the baseline period: Manipulation with 5 letters (5M)	n/a	n/a	151
+2452.1000000000	n/a	1226050	presentation of the task instruction	n/a	n/a	4
+2452.8000000000	n/a	1226400	encoding: 5M	n/a	n/a	251
+2455.9000000000	n/a	1227950	delay period: 5M	n/a	n/a	351
+2462.6000000000	n/a	1231300	probe: 5M	n/a	n/a	51
+2464.7920000000	n/a	1232396	Response: 5M: correct	n/a	n/a	4511
+2469.1000000000	n/a	1234550	start of the trial	n/a	n/a	500
+2469.5000000000	n/a	1234750	start of the baseline period: Manipulation with 5 letters (5M)	n/a	n/a	151
+2472.6000000000	n/a	1236300	presentation of the task instruction	n/a	n/a	4
+2473.3000000000	n/a	1236650	encoding: 5M	n/a	n/a	251
+2476.4000000000	n/a	1238200	delay period: 5M	n/a	n/a	351
+2483.1000000000	n/a	1241550	probe: 5M	n/a	n/a	51
+2489.3000000000	n/a	1244650	start of the trial	n/a	n/a	500
+2489.6000000000	n/a	1244800	start of the baseline period: Manipulation with 5 letters (5M)	n/a	n/a	151
+2492.8000000000	n/a	1246400	presentation of the task instruction	n/a	n/a	4
+2493.4000000000	n/a	1246700	encoding: 5M	n/a	n/a	251
+2496.6000000000	n/a	1248300	delay period: 5M	n/a	n/a	351
+2503.2000000000	n/a	1251600	probe: 5M	n/a	n/a	51
+2508.4580000000	n/a	1254229	Response: 5M: error	n/a	n/a	4510
+2509.6000000000	n/a	1254800	start of the trial	n/a	n/a	500
+2510.0000000000	n/a	1255000	start of the baseline period: Manipulation with 5 letters (5M)	n/a	n/a	151
+2513.1000000000	n/a	1256550	presentation of the task instruction	n/a	n/a	4
+2513.8000000000	n/a	1256900	encoding: 5M	n/a	n/a	251
+2516.9000000000	n/a	1258450	delay period: 5M	n/a	n/a	351
+2523.6000000000	n/a	1261800	probe: 5M	n/a	n/a	51
+2524.9240000000	n/a	1262462	Response: 5M: correct	n/a	n/a	4511
+2530.2000000000	n/a	1265100	start of the trial	n/a	n/a	500
+2530.5000000000	n/a	1265250	start of the baseline period: Retention of 5 letters (5R)	n/a	n/a	150
+2533.7000000000	n/a	1266850	presentation of the task instruction	n/a	n/a	4
+2534.3000000000	n/a	1267150	encoding: 5R	n/a	n/a	250
+2537.5000000000	n/a	1268750	delay period: 5R	n/a	n/a	350
+2544.1000000000	n/a	1272050	probe: 5R	n/a	n/a	50
+2550.4000000000	n/a	1275200	start of the trial	n/a	n/a	500
+2550.8000000000	n/a	1275400	start of the baseline period: Retention of 5 letters (5R)	n/a	n/a	150
+2553.9000000000	n/a	1276950	presentation of the task instruction	n/a	n/a	4
+2554.6000000000	n/a	1277300	encoding: 5R	n/a	n/a	250
+2557.7000000000	n/a	1278850	delay period: 5R	n/a	n/a	350
+2564.4000000000	n/a	1282200	probe: 5R	n/a	n/a	50
+2566.4940000000	n/a	1283247	Response: 5R: error	n/a	n/a	4500
+2566.8440000000	n/a	1283422	Response: 5R: correct	n/a	n/a	4501
+2570.6000000000	n/a	1285300	start of the trial	n/a	n/a	500
+2570.9000000000	n/a	1285450	start of the baseline period: Retention of 5 letters (5R)	n/a	n/a	150
+2574.0000000000	n/a	1287000	presentation of the task instruction	n/a	n/a	4
+2574.7000000000	n/a	1287350	encoding: 5R	n/a	n/a	250
+2577.9000000000	n/a	1288950	delay period: 5R	n/a	n/a	350
+2584.5000000000	n/a	1292250	probe: 5R	n/a	n/a	50
+2585.5340000000	n/a	1292767	Response: 5R: correct	n/a	n/a	4501
+2590.9000000000	n/a	1295450	start of the trial	n/a	n/a	500
+2591.3000000000	n/a	1295650	start of the baseline period: Retention of 5 letters (5R)	n/a	n/a	150
+2594.4000000000	n/a	1297200	presentation of the task instruction	n/a	n/a	4
+2595.1000000000	n/a	1297550	encoding: 5R	n/a	n/a	250
+2598.2000000000	n/a	1299100	delay period: 5R	n/a	n/a	350
+2604.9000000000	n/a	1302450	probe: 5R	n/a	n/a	50
+2607.5000000000	n/a	1303750	Response: 5R: correct	n/a	n/a	4501
+2611.4000000000	n/a	1305700	start of the trial	n/a	n/a	500
+2611.8000000000	n/a	1305900	start of the baseline period: Retention of 5 letters (5R)	n/a	n/a	150
+2614.9000000000	n/a	1307450	presentation of the task instruction	n/a	n/a	4
+2615.6000000000	n/a	1307800	encoding: 5R	n/a	n/a	250
+2618.7000000000	n/a	1309350	delay period: 5R	n/a	n/a	350
+2625.4000000000	n/a	1312700	probe: 5R	n/a	n/a	50
+2626.7120000000	n/a	1313356	Response: 5R: correct	n/a	n/a	4501
+2631.7000000000	n/a	1315850	start of the trial	n/a	n/a	500
+2632.0000000000	n/a	1316000	start of the baseline period: Retention of 5 letters (5R)	n/a	n/a	150
+2635.2000000000	n/a	1317600	presentation of the task instruction	n/a	n/a	4
+2635.8000000000	n/a	1317900	encoding: 5R	n/a	n/a	250
+2639.0000000000	n/a	1319500	delay period: 5R	n/a	n/a	350
+2645.6000000000	n/a	1322800	probe: 5R	n/a	n/a	50
+2647.7160000000	n/a	1323858	Response: 5R: correct	n/a	n/a	4501
+2652.0000000000	n/a	1326000	start of the trial	n/a	n/a	500
+2652.3000000000	n/a	1326150	start of the baseline period: Retention of 5 letters (5R)	n/a	n/a	150
+2655.5000000000	n/a	1327750	presentation of the task instruction	n/a	n/a	4
+2656.1000000000	n/a	1328050	encoding: 5R	n/a	n/a	250
+2659.3000000000	n/a	1329650	delay period: 5R	n/a	n/a	350
+2666.0000000000	n/a	1333000	probe: 5R	n/a	n/a	50
+2672.2000000000	n/a	1336100	start of the trial	n/a	n/a	500
+2672.6000000000	n/a	1336300	start of the baseline period: Retention of 5 letters (5R)	n/a	n/a	150
+2675.7000000000	n/a	1337850	presentation of the task instruction	n/a	n/a	4
+2676.4000000000	n/a	1338200	encoding: 5R	n/a	n/a	250
+2679.5000000000	n/a	1339750	delay period: 5R	n/a	n/a	350
+2686.2000000000	n/a	1343100	probe: 5R	n/a	n/a	50
+2687.1680000000	n/a	1343584	Response: 5R: correct	n/a	n/a	4501
+2692.3000000000	n/a	1346150	start of the trial	n/a	n/a	500
+2692.7000000000	n/a	1346350	start of the baseline period: Retention of 5 letters (5R)	n/a	n/a	150
+2695.9000000000	n/a	1347950	presentation of the task instruction	n/a	n/a	4
+2696.5000000000	n/a	1348250	encoding: 5R	n/a	n/a	250
+2699.7000000000	n/a	1349850	delay period: 5R	n/a	n/a	350
+2706.3000000000	n/a	1353150	probe: 5R	n/a	n/a	50
+2712.5000000000	n/a	1356250	start of the trial	n/a	n/a	500
+2712.9000000000	n/a	1356450	start of the baseline period: Retention of 5 letters (5R)	n/a	n/a	150
+2716.0000000000	n/a	1358000	presentation of the task instruction	n/a	n/a	4
+2716.7000000000	n/a	1358350	encoding: 5R	n/a	n/a	250
+2719.8000000000	n/a	1359900	delay period: 5R	n/a	n/a	350
+2726.5000000000	n/a	1363250	probe: 5R	n/a	n/a	50
+2728.2820000000	n/a	1364141	Response: 5R: correct	n/a	n/a	4501
+2732.9000000000	n/a	1366450	start of the trial	n/a	n/a	500
+2733.3000000000	n/a	1366650	start of the baseline period: Retention of 5 letters (5R)	n/a	n/a	150
+2736.4000000000	n/a	1368200	presentation of the task instruction	n/a	n/a	4
+2737.1000000000	n/a	1368550	encoding: 5R	n/a	n/a	250
+2740.2000000000	n/a	1370100	delay period: 5R	n/a	n/a	350
+2746.9000000000	n/a	1373450	probe: 5R	n/a	n/a	50
+2750.0280000000	n/a	1375014	Response: 5R: correct	n/a	n/a	4501
+2753.0000000000	n/a	1376500	start of the trial	n/a	n/a	500
+2753.4000000000	n/a	1376700	start of the baseline period: Retention of 5 letters (5R)	n/a	n/a	150
+2756.5000000000	n/a	1378250	presentation of the task instruction	n/a	n/a	4
+2757.2000000000	n/a	1378600	encoding: 5R	n/a	n/a	250
+2760.3000000000	n/a	1380150	delay period: 5R	n/a	n/a	350
+2767.0000000000	n/a	1383500	probe: 5R	n/a	n/a	50
+2768.8560000000	n/a	1384428	Response: 5R: correct	n/a	n/a	4501
+2773.2000000000	n/a	1386600	start of the trial	n/a	n/a	500
+2773.5000000000	n/a	1386750	start of the baseline period: Retention of 5 letters (5R)	n/a	n/a	150
+2776.7000000000	n/a	1388350	presentation of the task instruction	n/a	n/a	4
+2777.4000000000	n/a	1388700	encoding: 5R	n/a	n/a	250
+2780.5000000000	n/a	1390250	delay period: 5R	n/a	n/a	350
+2787.2000000000	n/a	1393600	probe: 5R	n/a	n/a	50
+2788.6120000000	n/a	1394306	Response: 5R: error	n/a	n/a	4500
+2793.5000000000	n/a	1396750	start of the trial	n/a	n/a	500
+2793.9000000000	n/a	1396950	start of the baseline period: Retention of 5 letters (5R)	n/a	n/a	150
+2797.0000000000	n/a	1398500	presentation of the task instruction	n/a	n/a	4
+2797.7000000000	n/a	1398850	encoding: 5R	n/a	n/a	250
+2800.8000000000	n/a	1400400	delay period: 5R	n/a	n/a	350
+2807.5000000000	n/a	1403750	probe: 5R	n/a	n/a	50
+2808.7780000000	n/a	1404389	Response: 5R: correct	n/a	n/a	4501
+2813.9000000000	n/a	1406950	start of the trial	n/a	n/a	500
+2814.2000000000	n/a	1407100	start of the baseline period: Retention of 5 letters (5R)	n/a	n/a	150
+2817.4000000000	n/a	1408700	presentation of the task instruction	n/a	n/a	4
+2818.0000000000	n/a	1409000	encoding: 5R	n/a	n/a	250
+2821.2000000000	n/a	1410600	delay period: 5R	n/a	n/a	350
+2827.8000000000	n/a	1413900	probe: 5R	n/a	n/a	50
+2834.1000000000	n/a	1417050	start of the trial	n/a	n/a	500
+2834.4000000000	n/a	1417200	start of the baseline period: Retention of 5 letters (5R)	n/a	n/a	150
+2837.6000000000	n/a	1418800	presentation of the task instruction	n/a	n/a	4
+2838.2000000000	n/a	1419100	encoding: 5R	n/a	n/a	250
+2841.4000000000	n/a	1420700	delay period: 5R	n/a	n/a	350
+2848.0000000000	n/a	1424000	probe: 5R	n/a	n/a	50
+2850.3140000000	n/a	1425157	Response: 5R: correct	n/a	n/a	4501
+2854.5000000000	n/a	1427250	start of the trial	n/a	n/a	500
+2854.8000000000	n/a	1427400	start of the baseline period: Retention of 5 letters (5R)	n/a	n/a	150
+2858.0000000000	n/a	1429000	presentation of the task instruction	n/a	n/a	4
+2858.6000000000	n/a	1429300	encoding: 5R	n/a	n/a	250
+2861.8000000000	n/a	1430900	delay period: 5R	n/a	n/a	350
+2868.4000000000	n/a	1434200	probe: 5R	n/a	n/a	50
+2870.1440000000	n/a	1435072	Response: 5R: error	n/a	n/a	4500
+2872.1020000000	n/a	1436051	Response: 5R: correct	n/a	n/a	4501
+2874.9000000000	n/a	1437450	start of the trial	n/a	n/a	500
+2875.3000000000	n/a	1437650	start of the baseline period: Retention of 5 letters (5R)	n/a	n/a	150
+2878.4000000000	n/a	1439200	presentation of the task instruction	n/a	n/a	4
+2879.1000000000	n/a	1439550	encoding: 5R	n/a	n/a	250
+2882.2000000000	n/a	1441100	delay period: 5R	n/a	n/a	350
+2888.9000000000	n/a	1444450	probe: 5R	n/a	n/a	50
+2891.2180000000	n/a	1445609	Response: 5R: correct	n/a	n/a	4501
+2895.1000000000	n/a	1447550	start of the trial	n/a	n/a	500
+2895.4000000000	n/a	1447700	start of the baseline period: Retention of 5 letters (5R)	n/a	n/a	150
+2898.6000000000	n/a	1449300	presentation of the task instruction	n/a	n/a	4
+2899.2000000000	n/a	1449600	encoding: 5R	n/a	n/a	250
+2902.4000000000	n/a	1451200	delay period: 5R	n/a	n/a	350
+2909.0000000000	n/a	1454500	probe: 5R	n/a	n/a	50
+2910.3600000000	n/a	1455180	Response: 5R: correct	n/a	n/a	4501
+2915.4000000000	n/a	1457700	start of the trial	n/a	n/a	500
+2915.8000000000	n/a	1457900	start of the baseline period: Retention of 5 letters (5R)	n/a	n/a	150
+2918.9000000000	n/a	1459450	presentation of the task instruction	n/a	n/a	4
+2919.6000000000	n/a	1459800	encoding: 5R	n/a	n/a	250
+2922.7000000000	n/a	1461350	delay period: 5R	n/a	n/a	350
+2929.4000000000	n/a	1464700	probe: 5R	n/a	n/a	50
+2930.6900000000	n/a	1465345	Response: 5R: correct	n/a	n/a	4501
