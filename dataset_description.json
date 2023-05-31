@@ -10,5 +10,5 @@
     "License": "CC0",
     "BIDSVersion": "1.1.1",
     "HowToAcknowledge": "Please cite these papers for the acknowledgement:\nPavlov, Y. G., & Kotchoubey, B. (2021). Temporally distinct oscillatory codes of retention and manipulation of verbal working memory. European Journal Of Neuroscience. https://doi.org/10.1111/ejn.15457\nPavlov, Y. G., & Kotchoubey, B. (2020). The electrophysiological underpinnings of variation in verbal working memory capacity. Scientific Reports, 10(1), 16090. https://doi.org/10.1038/s41598-020-72940-5\n",
-    "DatasetDOI": "10.18112/openneuro.ds003655.v1.0.1"
+    "DatasetDOI": "doi:10.18112/openneuro.ds003655.v1.0.2"
 }
